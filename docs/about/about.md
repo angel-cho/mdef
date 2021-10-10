@@ -11,4 +11,4 @@ Parallel to her design career, Angel pursued less conventional paths in meditati
 Angel is currently based in Barcelona, Spain, pursuing her Masters in Design for Emergent Futures at the Institute for Advanced Architecture of Catalonia.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://www.angeljodesign.com)**
+You can see some of her personal work **[here](https://www.angeljodesign.com)**
