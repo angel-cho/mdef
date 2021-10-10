@@ -4,12 +4,16 @@ hide:
 ---
 
 # Bootcamp
-07 - 10 October 2021
+04-08 October 2021
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This first week of MDEF Bootcamp was an introduction of faculties, facilities, neighborhoods, communitites, and the structure and ideologies of the course.
 
 <h2>What is my fight?</h2>
 
 ![](../images/ACho_MyFight.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Through the prompt, "What is my flight?", we reflected on topics and issues we cared about and want to explore further during our time here at MDEF. My process of thinking about this, I thought of my journey of coming here and joining this program. I listed down all of my influences and reflections since I was small and how that contextualizes my identity, my values, and the my thinking process.
+
+This map shows my relationship to technology in a linear journey from childhood (early 90's) to today (2021). I decided to focus on my relationship to technology because I realized that it really shaped my life in different ways, and continues to shape my life and our collective lives. Although it's not necessarily "my fight" to think about technology, it was a good exercise in helping me come closer to what I might want to pursue.
+
+The best use of technology is for equality and providing tools of expression, communication, health, etc. to marginalized groups and individuals that may not have previously had access.

@@ -1,6 +1,6 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/ACho3x4.jpg)
 
 Hi! This is a latest. TEST latest
 
