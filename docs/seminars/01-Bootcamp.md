@@ -27,20 +27,21 @@ I'm still exploring what "my fight" is, but I'm very interested in the interplay
 
 <h2>Professional Identity</h2>
 
-![](../images/ProfessionalIdentity_211010.jpg)
+![](../images/ProfessionalProfiles.jpg)
 
 We took time to reflect on our skills, knowledge and attitude and share these with a few of our classmates "speed-dating style". I enjoyed this exercise because it gave us a context to share and it allowed us to just jump right into it. I learned something new with each person I spoke to and also picked up some attributes I would like to have.
 
 
 <h2>Professional Development Plan</h2>
 
-![](../images/ProfessionalIdentity_2110102.jpg)
+![](../images/ProfessionalProfiles2.jpg)
 
 Having the entire syllabus for term 1 in hand, I'm excited and curious to see what I will learn. I found myself questioning a lot of the topics and I think that's good because it means I will be learning something new. I think I will be surprised to compare notes after the fact.
 
 **Reflections:**
-- How can I combine this with my "fight" to plan out my project and goals?
-
+<ul>
+  <li>How can I combine this with my "fight" to plan out my project and goals?</li>
+</ul>
 
 <h2>Notes</h2>
 
