@@ -40,9 +40,11 @@ Having the entire syllabus for term 1 in hand, I'm excited and curious to see wh
 
 **Reflections:**
 <ul>
-  <li>How can I combine this with my "fight" to plan out my project and goals?</li>
+  <li></li>
 </ul>
 
-<h2>Notes</h2>
+<h2>References</h2>
 
-Designing with a First Person Perspective (1PP)
+<ul>
+  <li>Designing with a First Person Perspective (1PP)</li>
+<ul>
