@@ -6,31 +6,41 @@ hide:
 # Bootcamp
 04-08 October 2021
 
-This first week of MDEF Bootcamp was an introduction of faculties, facilities, neighborhoods, communities, and the structure and ideologies of the course.
+Introduction to the faculties, facilities, neighborhoods, communities, and the structure of the MDEF program.
 
-<h2>What is my fight?</h2>
+
+<h3>"What is my flight?"</h3>
 
 ![](../images/ACho_MyFight.jpg)
 
-Through the prompt, "What is my flight?", we reflected on topics and issues we cared about and want to explore further during our time here at MDEF. My process of thinking about this, I thought of my journey of coming here and joining this program. I listed down all of my influences and reflections since I was small and how that contextualizes my identity, my values, and the my thinking process.
+We were encouraged to ask ourselves "What is my flight?" and create a poster that reflects this question. In thinking about this topic, I found myself looking back at the trajectory of my life and career with the context of technological development and the cultural and personal shifts it created.
 
-This map shows my relationship to technology in a linear journey from childhood (early 90's) to today (2021). I decided to focus on my relationship to technology because I realized that it really shaped my life in different ways, and continues to shape my life and our collective lives. Although it's not necessarily "my fight" to think about technology, it was a good exercise in helping me come closer to what I might want to pursue.
+I'm still exploring what "my fight" is, but I'm very interested in the interplay between technology and humans and also the opportunities it can provide in giving access and tools to marginalized communities and individuals.
 
-The best use of technology is for equality and providing tools of expression, communication, health, etc. to marginalized groups and individuals that may not have previously had access.
+<b>Reflections:</b>
+<ul>
+  <li>Have more conversations with others about their passions and pursuits</li>
+  <li>Distill my ideas down to the essense</li>
+  <li>Work on presentation skills</li>
+</ul>
 
 
 <h2>Professional Identity</h2>
 
 ![](../images/ProfessionalIdentity_211010.jpg)
 
-Existing skills vs. desired skills / group exercise in class helped hone in on what qualities and skills I'd like to grow... 
+We took time to reflect on our skills, knowledge and attitude and share these with a few of our classmates "speed-dating style". I enjoyed this exercise because it gave us a context to share and it allowed us to just jump right into it. I learned something new with each person I spoke to and also picked up some attributes I would like to have.
 
 
 <h2>Professional Development Plan</h2>
 
 ![](../images/ProfessionalIdentity_2110102.jpg)
 
-How can I use this information to plan out my goals?
+Having the entire syllabus for term 1 in hand, I'm excited and curious to see what I will learn. I found myself questioning a lot of the topics and I think that's good because it means I will be learning something new. I think I will be surprised to compare notes after the fact.
+
+**Reflections:**
+- How can I combine this with my "fight" to plan out my project and goals?
+
 
 <h2>Notes</h2>
 
