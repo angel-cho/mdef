@@ -9,7 +9,7 @@ hide:
 Introduction to the faculties, facilities, neighborhoods, communities, and the structure of the MDEF program.
 
 
-<h3>"What is my flight?"</h3>
+<h2>"What is my flight?"</h2>
 
 ![](../images/ACho_MyFight.jpg)
 
