@@ -1,8 +1,8 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Angel Cho - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2021 "Student Name" - GNU Free Documentation License
+site_author: Angel Cho
+copyright: Copyleft 2021 Angel Cho - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -13,7 +13,7 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: "https://instagram.com/angeljo.jpg"
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
