@@ -6,45 +6,57 @@ hide:
 # Bootcamp
 04-08 October 2021
 
-Introduction to the faculties, facilities, neighborhoods, communities, and the structure of the MDEF program.
+# Explorations
+
+1. What is my fight?
+2. Hybrid Profiles
+3. Personal Development Program
 
 
-<h2>"What is my flight?"</h2>
+# Reflections
+
+1. What is my fight?
+
+In our first week of MDEF program, we met the faculties, visited the facilities and the Poblenou neighborhood, and was introduced to the structure of the program. Our first exercise was to reflect on the question "What is my fight?" and create a poster to share with the group.
 
 ![](../images/ACho_MyFight.jpg)
 
-We were encouraged to ask ourselves "What is my flight?" and create a poster that reflects this question. In thinking about this topic, I found myself looking back at the trajectory of my life and career with the context of technological development and the cultural and personal shifts it created.
+In my poster, I visualized my journey through my personal and professional life in the context of technology. I chose the lens of technology because it had and continues to have a large impact it on my personal life, our culture and society, my design career, and our collective future. In summary, I grew up with the evolution of technology and the internet and have had very mixed feeling about the ethics of technology. At different times of my life, I embraced and rejected working with or buying into the culture of tech, but have now come to a place where I see technology as a tool I must understand and manipulate to make impact in the future. And I believe the best way technology has made an impact in our society is through elevating equality; by providing new opportunities and access to marginalized communities and individuals who may not have had access before.
 
-I'm still exploring what "my fight" is, but I'm very interested in the interplay between technology and humans and also the opportunities it can provide in giving access and tools to marginalized communities and individuals.
+2. Hybrid Profiles
 
-<b>Reflections:</b>
+We learned about designing from a first person perspective and the importance of engaging with community early on in our design process. The sample (India light) project project was a great example of how as designers, we are often "solving" design problems in our own heads and ultimately designing for ourselves instead of the actual client or audience. We often fall into the trap of seeing ourselves as creators and problem solvers and the world as a big problem we need to solve. When the reality is that our minds our limited and the connections and sparks we can generate through real-life engagement and interactions (people, places and things), can provide a depth of understanding, relevance, and unimagined pathways that we could not have thought of alone.
+
+Following this lecture, we learned about the importance of understanding ourselves (our skills, knowledge and attitudes) on a professional level, and our aspirations. We jotted down our professional identities, then shared our qualities with our classmates, one on one. With each share, I learned a new quality of a classmate and picked up a quality that I would like to have. This exercise provided a good platform to share about ourselves in ways that we normally wouldn't.
+
+![](../images/ProfessionalProfiles.png)
+
+"The professional identity is deduced from the role you typically take in a design process, your strengths and weaknesses as a designer. Your professional identity is constantly developing."
+
+- hybridprofiles.pdf, Oscar Tomico
+
+3. Personal Development Program
+
+We also applied this method to our term one course list, and reflected on what skills, knowledge and attitudes we would like to acquire through each course. There are many topics in term one I am curious and excited to learn about. It will be interesting to return to this chart in hindsight and compare notes with my learnings.
+
+![](../images/PersonalDevelopment.png)
+
+
+# Next Steps
+
+- [ ]  Share and communicate professional identities and aspirations with others
+- [ ]  Continue to explore my fight and what I want to pursue
+- [ ]  Revisit and connect with Poblenou communities
+
+# References
+
+- Rural Spark (1PP)
+- Poblenou Urban District
+
+
+<b>Next Steps:</b>
 <ul>
-  <li>Have more conversations with others about their passions and pursuits</li>
+  <li>Have more conversations with others</li>
   <li>Distill my ideas down to the essense</li>
   <li>Work on presentation skills</li>
 </ul>
-
-
-<h2>Professional Identity</h2>
-
-![](../images/ProfessionalProfiles.jpg)
-
-We took time to reflect on our skills, knowledge and attitude and share these with a few of our classmates "speed-dating style". I enjoyed this exercise because it gave us a context to share and it allowed us to just jump right into it. I learned something new with each person I spoke to and also picked up some attributes I would like to have.
-
-
-<h2>Professional Development Plan</h2>
-
-![](../images/ProfessionalProfiles2.jpg)
-
-Having the entire syllabus for term 1 in hand, I'm excited and curious to see what I will learn. I found myself questioning a lot of the topics and I think that's good because it means I will be learning something new. I think I will be surprised to compare notes after the fact.
-
-**Reflections:**
-<ul>
-  <li></li>
-</ul>
-
-<h2>References</h2>
-
-<ul>
-  <li>Designing with a First Person Perspective (1PP)</li>
-<ul>
