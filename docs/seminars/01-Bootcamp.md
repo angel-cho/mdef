@@ -13,6 +13,7 @@ hide:
 2. Hybrid Profiles
 3. Personal Development Program
 
+---
 
 <h2>Reflections</h2>
 
@@ -31,8 +32,8 @@ We learned about designing from a first person perspective and the importance of
 
 ![](../images/ProfessionalProfiles.png)
 
-<blockquote> "The professional identity is deduced from the role you typically take in a design process, your strengths and weaknesses as a designer. Your professional identity is constantly developing." - Oscar Tomico
-</blockquote>
+> blockquote
+"The professional identity is deduced from the role you typically take in a design process, your strengths and weaknesses as a designer. Your professional identity is constantly developing." - Oscar Tomico
 
 Following this lecture, we learned about the importance of understanding ourselves (our skills, knowledge and attitudes) on a professional level, and our aspirations. We jotted down our professional identities, then shared our qualities with our classmates, one on one. With each share, I learned a new quality of a classmate and picked up a quality that I would like to have. This exercise provided a good platform to share about ourselves in ways that we normally wouldn't.
 
@@ -41,8 +42,14 @@ Following this lecture, we learned about the importance of understanding ourselv
 
 ![](../images/PersonalDevelopment.png)
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 We also applied this method to our term one course list, and reflected on what skills, knowledge and attitudes we would like to acquire through each course. There are many topics in term one I am curious and excited to learn about. It will be interesting to return to this chart in hindsight and compare notes with my learnings.
 
+---
 
 <h2>Next Steps</h2>
 
