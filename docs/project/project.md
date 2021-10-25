@@ -5,17 +5,17 @@ hide:
 
 # Desgin Space
 
-![](../images/miro-ds-all-251021.jpg)
+![](../images/miro-ds-all-251021.png)
 
-![](../images/miro-ds-interest-251021.jpg)
+![](../images/miro-ds-interest-251021.png)
 
-![](../images/miro-ds-areas-251021.jpg)
+![](../images/miro-ds-areas-251021.png)
 
-![](../images/miro-ds-triggers-251021.jpg)
+![](../images/miro-ds-triggers-251021.png)
 
-![](../images/miro-ds-method-251021.jpg)
+![](../images/miro-ds-method-251021.png)
 
-![](../images/miro-ds-ms-251021.jpg)
+![](../images/miro-ds-ms-251021.png)
 
 
 # Work Space and Prototype
