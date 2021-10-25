@@ -17,6 +17,12 @@ hide:
 
 ![](../images/miro-ds-ms-251021.png)
 
+![](../images/miro-ds-ms1-251021.png)
+
+![](../images/miro-ds-ms2-251021.png)
+
+![](../images/miro-ds-ms3-251021.png)
+
 
 # Work Space and Prototype
 
