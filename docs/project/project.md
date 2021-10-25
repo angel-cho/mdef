@@ -31,5 +31,3 @@ hide:
 ![](../images/RtD_Workspace6.jpg)
 
 ![](../images/RtD_Workspace8.jpg)
-
-![](../images/RtD_Workspace9.jpg)
