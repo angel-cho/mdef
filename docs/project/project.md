@@ -5,6 +5,31 @@ hide:
 
 # Desgin Space
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](../images/miro-ds-all-251021.jpg)
 
-![](../images/vt2010.gif)
+![](../images/miro-ds-interest-251021.jpg)
+
+![](../images/miro-ds-areas-251021.jpg)
+
+![](../images/miro-ds-triggers-251021.jpg)
+
+![](../images/miro-ds-method-251021.jpg)
+
+![](../images/miro-ds-ms-251021.jpg)
+
+
+# Work Space and Prototype
+
+![](../images/RtD_Workspace2.jpg)
+
+![](../images/RtD_Workspace3.jpg)
+
+![](../images/RtD_Workspace4.jpg)
+
+![](../images/RtD_Workspace5.jpg)
+
+![](../images/RtD_Workspace6.jpg)
+
+![](../images/RtD_Workspace8.jpg)
+
+![](../images/RtD_Workspace9.jpg)
