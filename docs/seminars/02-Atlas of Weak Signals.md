@@ -18,7 +18,8 @@ hide:
 
 Mariana opened this week's course with the enticing phrase, **"Today we are going to talk about the future"**, and all of the baggage that comes along with it. Who are we? Which future? What are we talking about? Listening to Mariana's personal journey, I resonated with her insight in discovering human metaphors behind all aspects of technology. The example of the ancient memory board artifact was especially fascinating because it was so visually and conceptually similar to the circuit boards we make today. It made me feel humble and a part of something larger, in an ancestral lineage of humans that are working to create and preserve their stories.
 
-<blockquote>"Cognitive ecologies instead of cognitive supremacies" - Mariana Quintero</blockquote>
+> blockquote
+"Cognitive ecologies instead of cognitive supremacies" - Mariana Quintero
 
 ### Design Space
 
