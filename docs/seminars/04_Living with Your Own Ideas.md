@@ -69,8 +69,12 @@ With an interest in accessibility in design, I wanted to gain first-hand insight
 4. **Lack of Hand Coordination**
     Using my non-dominant hand (left) to write today.
 
+
     ![](../images/04_lwyoi/Tools.jpg)
 
+### Video:
+
+  You can see the video on youtube here: **<https://youtu.be/Gk0xrloH7m0>**
 
 ### Field Notes:
 
@@ -126,8 +130,7 @@ With an interest in accessibility in design, I wanted to gain first-hand insight
 
     **17:47h** - Ordering boba. This was my third time interacting with a service employee, so I knew exactly what to do. I wrote what I wanted to order beforehand while I stood in line and prepared my credit card and my sign. When I was up to order, I showed my sign "Yo Puedo No Hablo", and he asked me "why?". I didn't expect him to interact with me in this way and I took a moment to write "experiment" (very poorly) with my non-dominant hand. I showed him the word and he gave me a thumbs up. I responded with a thumbs up and showed him the paper with my order on it. He grabbed my paper (which I also didn't expect) and wrote something on it himself. He returned the paper to me and I saw he had written "4.20 Euros", what I owed him. I paid with credit card and went outside to reflect on these few unexpected responses. I typed it out to Audrey and she suggested that he might have been aware that I wasn't actually deaf because she was filming me the whole time. *I hadn't thought about this before. By having someone film me for the final video, I was communicating that this was a set up (inauthentic) experience.*
 
-    **19:00h** - It’s harder to see as it becomes dark and I have my sunglasses on. I chose to keep them on in order to fully commit to my experiment and walked home in the blurry darkness. *I felt significantly less safe, unable to see clearly and hear clearly.* It made me realize how much I rely on these senses for my sense of security.
-
+    **19:00h** - It’s harder to see as it becomes dark and I have my sunglasses on. I chose to keep them on in order to fully commit to my experiment and walked home in the blurry darkness. *I felt significantly less safe, unable to see clearly and hear clearly.* It made me realize how much I rely on these sens
 
 
 ## Pain Points & Observations:
