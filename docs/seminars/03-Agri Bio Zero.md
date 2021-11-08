@@ -13,6 +13,8 @@ We dived into biology and learned about different types of metabolism, aerobic r
 
 microbiology, how to identify microorganisms, and we used this knowledge in practice by taking two mediums we made in the previous day (I chose lactobacillus and all purpose bacteria) and going out to find different samples to test on the mediums. For both these mediums, I sampled the inside of the Iaac toilet bowl, which looked surprisingly clean, and my armpits. I chose these two because I was interested if the toilet bowl would have lactobacillus bacteria, since it is in close contact with our bodies. And for my armpits, I was curious if there would be any lactobacillus and how much bacteria would show up. We labelled our samples and placed them in the incubator.
 
+[UPLOADING, PLEASE COME BACK LATER!]
+
 ![](../images/03_agribio/.jpg)
 *Figure 1*
 ![](../images/03_agribio/.jpg)
@@ -78,3 +80,7 @@ In this paper, Ignatow explores the impact the microbioime-gut-brain (MGB), nutr
 I believe this research is useful for the future because it looks at a wholistic (non-reductionist) way of approaching disease and social behaviors. Through food, it builds a connection that is tangible for most of us who may not understand what is going on inside our bodies, but suffer the effects of malnutrition. In order to get to the root of these issues, I believe we need to look at our bodies, minds, and environments holistically, and understand the chain of connections that come along with it. This is in contrast to the field of Western medicine, where issues in the body are studied and treated in isolation. I believe this wholistic and relational approach is applicable in any field of study: design, biology, technology ecology, agriculture, or sociology, as we are moving towards an understanding that everything is interconnected and impacts everything else. For example, in design we can look at industrial production and climate crisis. I thought this article was an interesting and important study in a step towards a more connected understanding of our bodies, minds, environments and behaviors.
 
 ## iGEM Experiment
+
+Using bacteria in our gut that
+
+[UPLOADING, PLEASE COME BACK LATER!]

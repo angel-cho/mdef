@@ -11,7 +11,7 @@ hide:
 2. Make something out of the scrap materials I brought to class for the person I drew. It can be for any function.
 
 
-## Reflections
+### Reflections
 We started working with materials before having an idea of what it would become. I had explored this mode of making before (in undergrad and in my design residency) and felt comfortable and ready to jump in.
 
 A few of the scrap materials I brought were: fabric yarn, clothes hangar, a net bag used to hold bell peppers from the grocery store, cardboard, a plastic bottle, and tea bags [*Fig.1*]. I gravitated towards the net bag and the fabric because they were flexible (and colorful) materials and I started wrapping them around different objects [*Fig.4*]. I enjoyed how the flexible materials were able to shift forms and create variations within the same object. I decided to focus on this element of "variations" in output with a common input.
@@ -52,7 +52,7 @@ We also realized as a group, our machines each touched upon a different human se
 ![](../images/04_lwyoi/Outline.jpg)
 
 ###Goal:
-Since I am interested in accessibility in design, I decided to spend a day with lesser degrees of some of my core senses: sight, hearing, speech, and dexterity. I hoped this experience would give me a small insight into understanding what a daily life and activities are like with a person with disabilities. Here are the modifications I made to my senses:
+With an interest in accessibility in design, I wanted to gain first-hand insight into how accessible a daily life in Barcelona is for people with disabilities. To challenge myself, I committed to spending a day without speech, blurred vision, hard of hearing and poor manual dexterity. I hoped this experience would give me a small insight into understanding into the specific conveniences and inconveniences (in technology, human interaction, social transactions, navigations, etc.) in daily life in a city for people with disabilities. Here are ways I modified my senses for the day:
 
 
 1. **Low, blurred vision**
@@ -146,6 +146,8 @@ Since I am interested in accessibility in design, I decided to spend a day with 
 
 ###Reflections:
 "A guide to suvvessful autoethnography" by Andres Lucero's article
+
+[UPLOADING, PLEASE COME BACK LATER!]
 
 1. Define study boundaries (being able to describe the limits of the study)
 2. Authentictiy (construct validity, being personally involved)
